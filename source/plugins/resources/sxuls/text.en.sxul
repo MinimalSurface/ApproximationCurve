@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<strings>
+  <string id="ApproximationCurve_title" value="Approximation Curve"/>
+  <string id="ApproximationCurve_seg_num" value="number of curve segments"/>
+  <string id="ApproximationCurve_weight" value="selected points weight"/>
+</strings>

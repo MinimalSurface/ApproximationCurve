@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "modifier", "modifier\modifier.vcproj", "{D583ADD3-BA40-47AF-A4F8-BD9FCF3164AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		debug|Win32 = debug|Win32
+		debug|x64 = debug|x64
+		release|Win32 = release|Win32
+		release|x64 = release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D583ADD3-BA40-47AF-A4F8-BD9FCF3164AD}.debug|Win32.ActiveCfg = Debug|Win32
+		{D583ADD3-BA40-47AF-A4F8-BD9FCF3164AD}.debug|Win32.Build.0 = Debug|Win32
+		{D583ADD3-BA40-47AF-A4F8-BD9FCF3164AD}.debug|x64.ActiveCfg = Debug|x64
+		{D583ADD3-BA40-47AF-A4F8-BD9FCF3164AD}.debug|x64.Build.0 = Debug|x64
+		{D583ADD3-BA40-47AF-A4F8-BD9FCF3164AD}.release|Win32.ActiveCfg = Release|Win32
+		{D583ADD3-BA40-47AF-A4F8-BD9FCF3164AD}.release|Win32.Build.0 = Release|Win32
+		{D583ADD3-BA40-47AF-A4F8-BD9FCF3164AD}.release|x64.ActiveCfg = Release|x64
+		{D583ADD3-BA40-47AF-A4F8-BD9FCF3164AD}.release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

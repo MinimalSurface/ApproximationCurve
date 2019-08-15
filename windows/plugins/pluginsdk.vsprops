@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualStudioPropertySheet
+	ProjectType="Visual C++"
+	Version="8.00"
+	Name="pluginsdk"
+	>
+	<Tool
+		Name="VCCLCompilerTool"
+		PreprocessorDefinitions="WIN32;SXWIN32;_WINDOWS;SXWINDOWS;_SECURE_SCL=0;SXPLUGIN=1;SXCORE=;SXMODEL="
+		AdditionalIncludeDirectories="$(BOOSTPATH);$(SXINCLUDEPATH);$(SXINCLUDEPATH)/openexr-1.6.1;$(SXINCLUDEPATH)/opengl"
+		DisableSpecificWarnings="4819"
+	/>
+	<UserMacro
+		Name="BOOSTPATH"
+		Value="../../../../boost_1_43_0"
+	/>
+	<UserMacro
+		Name="SXINCLUDEPATH"
+		Value="../../../../include"
+	/>
+</VisualStudioPropertySheet>
